@@ -46,7 +46,9 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=CPlusPlus)&nbsp;
 ![Stripe](https://img.shields.io/badge/-Stripe%20-05122A?style=flat&logo=stripe)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux%20-05122A?style=flat&logo=redux)&nbsp;
-![React Redux](https://img.shields.io/badge/-React%20Redux%20-05122A?style=flat&logo=react&logoColor=764abc)
+![React Redux](https://img.shields.io/badge/-React%20Redux%20-05122A?style=flat&logo=react&logoColor=764abc)&nbsp;
+![Styled Components](https://img.shields.io/badge/-Styled%20Components%20-05122A?style=flat&logo=styled-components&logoColor=db7093)
+
 
 
 
