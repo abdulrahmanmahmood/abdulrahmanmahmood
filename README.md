@@ -37,9 +37,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Notion](https://img.shields.io/badge/-Notion%20-05122A?style=flat&logo=notion)&nbsp;
-![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira%20-05122A?style=flat&logo=jira)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=CPlusPlus)&nbsp;
 ![Stripe](https://img.shields.io/badge/-Stripe%20-05122A?style=flat&logo=stripe)&nbsp;
