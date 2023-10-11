@@ -48,6 +48,8 @@
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components%20-05122A?style=flat&logo=styled-components&logoColor=db7093);
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS%20-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![React Redux Toolkit](https://img.shields.io/badge/-React%20Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white&labelColor=764ABC)
+![Material-UI (MUI)](https://img.shields.io/badge/-MUI-0081CB?style=flat&logo=material-ui&logoColor=white)
+
 
 
 
