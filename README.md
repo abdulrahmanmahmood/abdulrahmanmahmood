@@ -52,6 +52,7 @@
 ![Material-UI (MUI)](https://img.shields.io/badge/-MUI-0081CB?style=flat&logo=material-ui&logoColor=white)
 ![Nivo](https://img.shields.io/badge/-Nivo-000000?style=flat&logo=nivo)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
 
 
 
