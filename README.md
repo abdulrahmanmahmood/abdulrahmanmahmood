@@ -55,6 +55,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
 ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=flat&logo=react-hook-form&logoColor=white)
+
 
 
 
