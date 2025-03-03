@@ -29,6 +29,7 @@
 <a href="https://t.me/abdulrahman_mahmoud45" target="_blank"><img src="https://img.shields.io/badge/-Abdul%20Rahman%20Mahmoud-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -41,7 +42,6 @@
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=CPlusPlus)&nbsp;
 ![Stripe](https://img.shields.io/badge/-Stripe%20-05122A?style=flat&logo=stripe)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux%20-05122A?style=flat&logo=redux)&nbsp;
@@ -56,7 +56,16 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
 ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=flat&logo=react-hook-form&logoColor=white)
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=zustand&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=react-query&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E68FF?style=flat&logoColor=white)
+![Formik](https://img.shields.io/badge/Formik-FF9800?style=flat&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-671DDF?style=flat&logo=axios&logoColor=white)
+![CSR](https://img.shields.io/badge/Client--Side%20Rendering-61DAFB?style=flat&logo=react&logoColor=white)
+![SSR](https://img.shields.io/badge/Server--Side%20Rendering-000000?style=flat&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
 
